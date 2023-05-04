@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/apt/install
 #code_recorded_by_tech_cochi
 clear
 sleep 1
@@ -54,3 +54,5 @@ echo " create account on cashkaro.com "
 echo " set your browser "
 termux-open-url https://cashkaro.com?r=8026255&fname=Rixon
 echo ""
+apt install
+pkg install git

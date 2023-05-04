@@ -48,3 +48,4 @@ rm -rf techcochi.zip
 bash smf.sh
 clear
 sleep 1.0
+apt upgrade
